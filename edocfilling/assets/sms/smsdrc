@@ -1,0 +1,13 @@
+device = com21:
+connection = at115200
+
+
+[smsd]
+service = MYSQL
+logfile = c:\xampp\htdocs\edocbpjstk\assets\sms\log.txt
+debuglevel = 0
+#PIN = 1234
+user = root
+password = ""
+pc = localhost
+database = sms

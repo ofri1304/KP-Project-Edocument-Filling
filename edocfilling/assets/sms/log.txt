@@ -1,0 +1,258 @@
+Sun 2017/11/12 08:56:05 gammu-smsd[5460]: mysql service is deprecated. Please use SQL service with correct driver.
+Sun 2017/11/12 08:56:05 gammu-smsd[5460]: Warning: No PIN code in c:\gammu\smsdrc file
+Sun 2017/11/12 08:56:06 gammu-smsd[5460]: Connected to Database: sms on localhost
+Sun 2017/11/12 08:56:06 gammu-smsd[5460]: Connected to Database native_mysql: sms on localhost
+Sun 2017/11/12 08:56:06 gammu-smsd[5460]: Created Windows RW shared memory at 00710000
+Sun 2017/11/12 08:56:06 gammu-smsd[5460]: Starting phone communication...
+Sun 2017/11/12 08:56:15 gammu-smsd[5460]: Inserting phone info
+Sun 2017/11/12 08:56:16 gammu-smsd[5460]: Read 2 messages
+Mon 2017/11/13 00:59:14 gammu-smsd[1612]: mysql service is deprecated. Please use SQL service with correct driver.
+Mon 2017/11/13 00:59:14 gammu-smsd[1612]: Warning: No PIN code in c:\xampp\htdocs\jajalsms\smsdrc file
+Mon 2017/11/13 00:59:14 gammu-smsd[1612]: Connected to Database: sms on localhost
+Mon 2017/11/13 00:59:14 gammu-smsd[1612]: Connected to Database native_mysql: sms on localhost
+Mon 2017/11/13 00:59:14 gammu-smsd[1612]: Created Windows RW shared memory at 006D0000
+Mon 2017/11/13 00:59:14 gammu-smsd[1612]: Starting phone communication...
+Mon 2017/11/13 00:59:22 gammu-smsd[1612]: Inserting phone info
+Mon 2017/11/13 01:09:34 gammu-smsd[1612]: Error getting security status: Error writing to the device. (DEVICEWRITEERROR[11])
+Mon 2017/11/13 01:09:34 gammu-smsd[1612]: You might want to set CheckSecurity = 0 to avoid checking security status
+Mon 2017/11/13 01:09:46 gammu-smsd[1612]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Mon 2017/11/13 01:09:46 gammu-smsd[1612]: You might want to set CheckSecurity = 0 to avoid checking security status
+Mon 2017/11/13 01:09:58 gammu-smsd[1612]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Mon 2017/11/13 01:09:58 gammu-smsd[1612]: You might want to set CheckSecurity = 0 to avoid checking security status
+Mon 2017/11/13 01:09:58 gammu-smsd[1612]: Already hit 3 errors
+Mon 2017/11/13 01:09:58 gammu-smsd[1612]: Terminating communication: Entry is empty. (EMPTY[22])
+Mon 2017/11/13 01:09:58 gammu-smsd[1612]: Starting phone communication...
+Mon 2017/11/13 01:10:01 gammu-smsd[1612]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2017/11/13 01:10:01 gammu-smsd[1612]: Failed to start SMSD, Error 5: Access is denied.
+
+
+Fri 2017/11/17 20:48:13 gammu-smsd[11396]: mysql service is deprecated. Please use SQL service with correct driver.
+Fri 2017/11/17 20:48:13 gammu-smsd[11396]: Warning: No PIN code in c:\xampp\htdocs\jajalsms\smsdrc file
+Fri 2017/11/17 20:48:13 gammu-smsd[11396]: Connected to Database: sms on localhost
+Fri 2017/11/17 20:48:15 gammu-smsd[11396]: Connected to Database native_mysql: sms on localhost
+Fri 2017/11/17 20:48:15 gammu-smsd[11396]: Created Windows RW shared memory at 001D0000
+Fri 2017/11/17 20:48:15 gammu-smsd[11396]: Starting phone communication...
+Fri 2017/11/17 20:48:24 gammu-smsd[11396]: Inserting phone info
+Fri 2017/11/17 20:48:33 gammu-smsd[11396]: Error getting send status of message: Unknown error. (UNKNOWN[27])
+Fri 2017/11/17 20:51:20 gammu-smsd[11396]: Read 1 messages
+Fri 2017/11/17 20:52:02 gammu-smsd[11396]: Error getting security status: Error writing to the device. (DEVICEWRITEERROR[11])
+Fri 2017/11/17 20:52:02 gammu-smsd[11396]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2017/11/18 11:51:47 gammu-smsd[12228]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 11:51:47 gammu-smsd[12228]: Warning: No PIN code in C:\xampp\htdocs\edocbpjstk\assets\sms\smsdrc file
+Sat 2017/11/18 11:51:47 gammu-smsd[12228]: Connected to Database: sms on localhost
+Sat 2017/11/18 11:51:47 gammu-smsd[12228]: Error code: 1146, Error: Table 'sms.outbox' doesn't exist
+Sat 2017/11/18 11:51:47 gammu-smsd[12228]: SQL failure: 2
+Sat 2017/11/18 11:51:47 gammu-smsd[12228]: Table outbox not found, disconnecting!
+Sat 2017/11/18 11:51:47 gammu-smsd[12228]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])
+Sat 2017/11/18 11:52:48 gammu-smsd[10904]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 11:52:48 gammu-smsd[10904]: Warning: No PIN code in C:\xampp\htdocs\edocbpjstk\assets\sms\smsdrc file
+Sat 2017/11/18 11:52:48 gammu-smsd[10904]: Connected to Database: sms on localhost
+Sat 2017/11/18 11:52:48 gammu-smsd[10904]: Error code: 1146, Error: Table 'sms.outbox' doesn't exist
+Sat 2017/11/18 11:52:48 gammu-smsd[10904]: SQL failure: 2
+Sat 2017/11/18 11:52:48 gammu-smsd[10904]: Table outbox not found, disconnecting!
+Sat 2017/11/18 11:52:48 gammu-smsd[10904]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])
+Sat 2017/11/18 11:54:36 gammu-smsd[11436]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 11:54:36 gammu-smsd[11436]: Warning: No PIN code in C:\xampp\htdocs\edocbpjstk\assets\sms\smsdrc file
+Sat 2017/11/18 11:54:36 gammu-smsd[11436]: Connected to Database: sms on localhost
+Sat 2017/11/18 11:54:36 gammu-smsd[11436]: Error code: 1146, Error: Table 'sms.outbox' doesn't exist
+Sat 2017/11/18 11:54:36 gammu-smsd[11436]: SQL failure: 2
+Sat 2017/11/18 11:54:36 gammu-smsd[11436]: Table outbox not found, disconnecting!
+Sat 2017/11/18 11:54:36 gammu-smsd[11436]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])
+Sat 2017/11/18 12:11:49 gammu-smsd[10456]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 12:11:49 gammu-smsd[10456]: Warning: No PIN code in c:\xampp\htdocs\edocbpjstk\assets\sms\smsdrc file
+Sat 2017/11/18 12:11:49 gammu-smsd[10456]: Connected to Database: sms on localhost
+Sat 2017/11/18 12:11:49 gammu-smsd[10456]: Connected to Database native_mysql: sms on localhost
+Sat 2017/11/18 12:11:49 gammu-smsd[10456]: Created Windows RW shared memory at 001F0000
+Sat 2017/11/18 12:11:49 gammu-smsd[10456]: Starting phone communication...
+Sat 2017/11/18 12:11:59 gammu-smsd[10456]: Inserting phone info
+Sat 2017/11/18 12:16:47 gammu-smsd[6312]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 12:16:47 gammu-smsd[6312]: Warning: No PIN code in c:\xampp\htdocs\edocbpjstk\assets\sms\smsdrc file
+Sat 2017/11/18 12:16:47 gammu-smsd[6312]: Connected to Database: sms on localhost
+Sat 2017/11/18 12:16:47 gammu-smsd[6312]: Connected to Database native_mysql: sms on localhost
+Sat 2017/11/18 12:16:47 gammu-smsd[6312]: Created Windows RW shared memory at 001F0000
+Sat 2017/11/18 12:16:47 gammu-smsd[6312]: Starting phone communication...
+Sat 2017/11/18 12:16:57 gammu-smsd[6312]: Inserting phone info
+Sat 2017/11/18 12:26:31 gammu-smsd[5104]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 12:26:31 gammu-smsd[5104]: Warning: No PIN code in c:\xampp\htdocs\edocbpjstk\assets\sms\smsedoc file
+Sat 2017/11/18 12:26:31 gammu-smsd[5104]: Connected to Database: sms on localhost
+Sat 2017/11/18 12:26:31 gammu-smsd[5104]: Connected to Database native_mysql: sms on localhost
+Sat 2017/11/18 12:26:31 gammu-smsd[5104]: Created Windows RW shared memory at 006C0000
+Sat 2017/11/18 12:26:31 gammu-smsd[5104]: Starting phone communication...
+Sat 2017/11/18 12:26:41 gammu-smsd[5104]: Inserting phone info
+Sat 2017/11/18 12:36:15 gammu-smsd[3656]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 12:36:15 gammu-smsd[3656]: Warning: No PIN code in c:\xampp\htdocs\edocbpjstk\assets\sms\smsedoc file
+Sat 2017/11/18 12:36:15 gammu-smsd[3656]: Connected to Database: sms on localhost
+Sat 2017/11/18 12:36:15 gammu-smsd[3656]: Connected to Database native_mysql: sms on localhost
+Sat 2017/11/18 12:36:15 gammu-smsd[3656]: Created Windows RW shared memory at 001F0000
+Sat 2017/11/18 12:36:15 gammu-smsd[3656]: Starting phone communication...
+Sat 2017/11/18 12:36:25 gammu-smsd[3656]: Inserting phone info
+Sat 2017/11/18 13:36:37 gammu-smsd[4772]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 13:36:37 gammu-smsd[4772]: Warning: No PIN code in c:\xampp\htdocs\edocbpjstk\assets\sms\smsedoc file
+Sat 2017/11/18 13:36:37 gammu-smsd[4772]: Error connecting to database!
+Sat 2017/11/18 13:36:37 gammu-smsd[4772]: Error code: 1049, Error: Unknown database 'sms'
+Sat 2017/11/18 13:36:37 gammu-smsd[4772]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])
+Sat 2017/11/18 13:38:46 gammu-smsd[9636]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 13:38:46 gammu-smsd[9636]: Warning: No PIN code in c:\xampp\htdocs\edocbpjstk\assets\sms\smsdrc file
+Sat 2017/11/18 13:38:46 gammu-smsd[9636]: Error connecting to database!
+Sat 2017/11/18 13:38:46 gammu-smsd[9636]: Error code: 1045, Error: Access denied for user 'adminsisa'@'localhost' (using password: YES)
+Sat 2017/11/18 13:38:46 gammu-smsd[9636]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])
+Sat 2017/11/18 13:40:18 gammu-smsd[10580]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 13:40:18 gammu-smsd[10580]: Warning: No PIN code in c:\xampp\htdocs\edocbpjstk\assets\sms\smsdrc file
+Sat 2017/11/18 13:40:18 gammu-smsd[10580]: Error connecting to database!
+Sat 2017/11/18 13:40:18 gammu-smsd[10580]: Error code: 1045, Error: Access denied for user 'adminsisa'@'localhost' (using password: YES)
+Sat 2017/11/18 13:40:18 gammu-smsd[10580]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])
+Sat 2017/11/18 13:40:35 gammu-smsd[3160]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 13:40:35 gammu-smsd[3160]: Warning: No PIN code in c:\xampp\htdocs\edocbpjstk\assets\sms\smsdrc file
+Sat 2017/11/18 13:40:35 gammu-smsd[3160]: Error connecting to database!
+Sat 2017/11/18 13:40:35 gammu-smsd[3160]: Error code: 1045, Error: Access denied for user 'adminsisa'@'localhost' (using password: YES)
+Sat 2017/11/18 13:40:35 gammu-smsd[3160]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])
+Sat 2017/11/18 13:41:47 gammu-smsd[6104]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 13:41:47 gammu-smsd[6104]: Warning: No PIN code in c:\xampp\htdocs\edocbpjstk\assets\sms\smsdrc file
+Sat 2017/11/18 13:41:47 gammu-smsd[6104]: Connected to Database: sms on localhost
+Sat 2017/11/18 13:41:47 gammu-smsd[6104]: Connected to Database native_mysql: sms on localhost
+Sat 2017/11/18 13:41:47 gammu-smsd[6104]: Created Windows RW shared memory at 006D0000
+Sat 2017/11/18 13:41:47 gammu-smsd[6104]: Starting phone communication...
+Sat 2017/11/18 13:41:51 gammu-smsd[6104]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:41:51 gammu-smsd[6104]: Already hit 250 errors
+Sat 2017/11/18 13:41:51 gammu-smsd[6104]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:41:51 gammu-smsd[6104]: Starting phone communication...
+Sat 2017/11/18 13:41:55 gammu-smsd[6104]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:41:55 gammu-smsd[6104]: Already hit 250 errors
+Sat 2017/11/18 13:41:55 gammu-smsd[6104]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:41:55 gammu-smsd[6104]: Starting phone communication...
+Sat 2017/11/18 13:41:59 gammu-smsd[6104]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:41:59 gammu-smsd[6104]: Already hit 250 errors
+Sat 2017/11/18 13:41:59 gammu-smsd[6104]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:41:59 gammu-smsd[6104]: Starting phone communication...
+Sat 2017/11/18 13:42:04 gammu-smsd[6104]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:42:04 gammu-smsd[6104]: Already hit 250 errors
+Sat 2017/11/18 13:42:04 gammu-smsd[6104]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:42:04 gammu-smsd[6104]: Going to 30 seconds sleep because of too much connection errors
+Sat 2017/11/18 13:42:34 gammu-smsd[6104]: Starting phone communication...
+Sat 2017/11/18 13:42:38 gammu-smsd[6104]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:42:38 gammu-smsd[6104]: Already hit 250 errors
+Sat 2017/11/18 13:42:38 gammu-smsd[6104]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:42:38 gammu-smsd[6104]: Going to 30 seconds sleep because of too much connection errors
+Sat 2017/11/18 13:43:09 gammu-smsd[6104]: Starting phone communication...
+Sat 2017/11/18 13:43:13 gammu-smsd[6104]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:43:13 gammu-smsd[6104]: Already hit 250 errors
+Sat 2017/11/18 13:43:13 gammu-smsd[6104]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:43:13 gammu-smsd[6104]: Going to 30 seconds sleep because of too much connection errors
+Sat 2017/11/18 13:43:44 gammu-smsd[6104]: Starting phone communication...
+Sat 2017/11/18 13:43:48 gammu-smsd[6104]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:43:48 gammu-smsd[6104]: Already hit 250 errors
+Sat 2017/11/18 13:43:48 gammu-smsd[6104]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:43:48 gammu-smsd[6104]: Going to 30 seconds sleep because of too much connection errors
+Sat 2017/11/18 13:47:08 gammu-smsd[4004]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 13:47:08 gammu-smsd[4004]: Warning: No PIN code in c:\xampp\htdocs\edocbpjstk\assets\sms\smsdrc file
+Sat 2017/11/18 13:47:08 gammu-smsd[4004]: Connected to Database: sms on localhost
+Sat 2017/11/18 13:47:08 gammu-smsd[4004]: Connected to Database native_mysql: sms on localhost
+Sat 2017/11/18 13:47:08 gammu-smsd[4004]: Created Windows RW shared memory at 001F0000
+Sat 2017/11/18 13:47:08 gammu-smsd[4004]: Starting phone communication...
+Sat 2017/11/18 13:47:13 gammu-smsd[4004]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:47:13 gammu-smsd[4004]: Already hit 250 errors
+Sat 2017/11/18 13:47:13 gammu-smsd[4004]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:47:13 gammu-smsd[4004]: Starting phone communication...
+Sat 2017/11/18 13:47:17 gammu-smsd[4004]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:47:17 gammu-smsd[4004]: Already hit 250 errors
+Sat 2017/11/18 13:47:17 gammu-smsd[4004]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:47:17 gammu-smsd[4004]: Starting phone communication...
+Sat 2017/11/18 13:47:21 gammu-smsd[4004]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:47:21 gammu-smsd[4004]: Already hit 250 errors
+Sat 2017/11/18 13:47:21 gammu-smsd[4004]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:47:21 gammu-smsd[4004]: Starting phone communication...
+Sat 2017/11/18 13:47:26 gammu-smsd[4004]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:47:26 gammu-smsd[4004]: Already hit 250 errors
+Sat 2017/11/18 13:47:26 gammu-smsd[4004]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:47:26 gammu-smsd[4004]: Going to 30 seconds sleep because of too much connection errors
+Sat 2017/11/18 13:47:56 gammu-smsd[4004]: Starting phone communication...
+Sat 2017/11/18 13:48:00 gammu-smsd[4004]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:48:00 gammu-smsd[4004]: Already hit 250 errors
+Sat 2017/11/18 13:48:00 gammu-smsd[4004]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:48:00 gammu-smsd[4004]: Going to 30 seconds sleep because of too much connection errors
+Sat 2017/11/18 13:48:31 gammu-smsd[4004]: Starting phone communication...
+Sat 2017/11/18 13:48:35 gammu-smsd[4004]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:48:35 gammu-smsd[4004]: Already hit 250 errors
+Sat 2017/11/18 13:48:35 gammu-smsd[4004]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:48:35 gammu-smsd[4004]: Going to 30 seconds sleep because of too much connection errors
+Sat 2017/11/18 13:49:06 gammu-smsd[4004]: Starting phone communication...
+Sat 2017/11/18 13:49:09 gammu-smsd[4004]: Error at init connection: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:49:09 gammu-smsd[4004]: Already hit 250 errors
+Sat 2017/11/18 13:49:09 gammu-smsd[4004]: Terminating communication: Can not access SIM card. (NOSIM[49])
+Sat 2017/11/18 13:49:09 gammu-smsd[4004]: Going to 30 seconds sleep because of too much connection errors
+Sat 2017/11/18 13:49:40 gammu-smsd[4004]: Starting phone communication...
+Sat 2017/11/18 13:49:40 gammu-smsd[4004]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Sat 2017/11/18 13:49:40 gammu-smsd[4004]: Failed to start SMSD, Error 32: The process cannot access the file because it is being used by another process.
+
+
+Sat 2017/11/18 14:46:55 gammu-smsd[8024]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 14:46:55 gammu-smsd[8024]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/18 14:50:32 gammu-smsd[10840]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 14:50:32 gammu-smsd[10840]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/18 14:52:33 gammu-smsd[4260]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 14:52:33 gammu-smsd[4260]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/18 15:34:17 gammu-smsd[5116]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/18 15:34:17 gammu-smsd[5116]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Thu 2017/11/23 19:35:38 gammu-smsd[3808]: mysql service is deprecated. Please use SQL service with correct driver.
+Thu 2017/11/23 19:35:38 gammu-smsd[3808]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:23:05 gammu-smsd[5816]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 21:23:05 gammu-smsd[5816]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:28:29 gammu-smsd[2872]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 21:28:29 gammu-smsd[2872]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:28:57 gammu-smsd[4724]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 21:28:57 gammu-smsd[4724]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:29:16 gammu-smsd[14672]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 21:29:16 gammu-smsd[14672]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:29:19 gammu-smsd[2336]: mysql service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 21:29:19 gammu-smsd[2336]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:37:57 gammu-smsd[13848]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:38:21 gammu-smsd[14952]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:40:47 gammu-smsd[12872]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:48:01 gammu-smsd[208]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:48:07 gammu-smsd[14112]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:55:35 gammu-smsd[14936]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 21:55:35 gammu-smsd[14936]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:56:48 gammu-smsd[16372]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 21:56:48 gammu-smsd[16372]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 21:58:07 gammu-smsd[13204]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 21:58:07 gammu-smsd[13204]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:00:46 gammu-smsd[11304]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:00:46 gammu-smsd[11304]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:01:33 gammu-smsd[15844]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:01:33 gammu-smsd[15844]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:06:31 gammu-smsd[13024]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:06:31 gammu-smsd[13024]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:09:44 gammu-smsd[6804]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:09:44 gammu-smsd[6804]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:23:51 gammu-smsd[5912]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:23:51 gammu-smsd[5912]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:24:53 gammu-smsd[12732]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:24:53 gammu-smsd[12732]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:31:53 gammu-smsd[12308]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:31:53 gammu-smsd[12308]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:31:56 gammu-smsd[13700]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:31:56 gammu-smsd[13700]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:31:59 gammu-smsd[7876]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:31:59 gammu-smsd[7876]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:32:02 gammu-smsd[4648]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:32:02 gammu-smsd[4648]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:32:03 gammu-smsd[4372]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:32:03 gammu-smsd[4372]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:32:06 gammu-smsd[7256]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:32:06 gammu-smsd[7256]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:32:08 gammu-smsd[16004]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:32:08 gammu-smsd[16004]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:33:09 gammu-smsd[9032]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:33:09 gammu-smsd[9032]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:33:43 gammu-smsd[11600]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:33:43 gammu-smsd[11600]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:33:54 gammu-smsd[11116]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:33:54 gammu-smsd[11116]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:35:31 gammu-smsd[8840]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:35:31 gammu-smsd[8840]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:35:34 gammu-smsd[9448]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:35:34 gammu-smsd[9448]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:35:35 gammu-smsd[15596]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:35:35 gammu-smsd[15596]: No gammu configuration found (no [gammu] section in SMSD config file)!
+Sat 2017/11/25 22:35:35 gammu-smsd[15004]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/11/25 22:35:35 gammu-smsd[15004]: No gammu configuration found (no [gammu] section in SMSD config file)!
